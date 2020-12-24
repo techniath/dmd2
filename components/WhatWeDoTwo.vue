@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="thumb">
-                        <img class="w-100" src="/img/corona/brochure.png" alt="about images">
+                        <img class="w-100" src="/img/corona/medicaltransport.jpg" alt="about images">
                     </div>
                 </div>
                 <div class="col-lg-6 mt_sm--40 mt_md--40">

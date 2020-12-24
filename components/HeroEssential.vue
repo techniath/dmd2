@@ -5,11 +5,11 @@
                 <div class="hero-essential-slide bg-cover" :style="{backgroundImage: `url(${slider.bgImage})`}">
                     <div class="container">
                         <div class="row">
-                            <div class="col-12">
-                                <div class="hero-content">
-                                    <h2 class="hero-title bg_color--12" v-html="slider.heading">{{ slider.heading }}</h2>
-                                    <h5 class="bg_color--12">{{ slider.subHeading }}</h5>
-                                    <n-link to="/" class="brook-btn bk-btn-theme text-theme btn-sd-size ">Learn More</n-link>
+                            <div class="col-20">
+                                <div class="trans-pink">
+                                    <h2 class="hero-title text-dmd" v-html="slider.heading">{{ slider.heading }}</h2>
+                                    <h5 class="">{{ slider.subHeading }}</h5>
+                                    <n-link to="/" class="brook-btn bk-btn-theme-dmd text-dmd btn-sd-size ">Learn More</n-link>
                                 </div>
                             </div>
                         </div>
@@ -48,8 +48,8 @@
                     },
                     {
                         id: 2,
-                        heading: "We're here to level <br> up your online <br> presence.",
-                        subHeading: "Our lives are made up of journeys. Including those that we take on the road... With us, we'll make every journey safe, comfortable and relaxing.",
+                        heading: "With You, For You, Always'",
+                        subHeading: "Our vehicles are licensed by the MNDOT and meet or exceed all Federal, state, local, and A.D.A. guidelines",
                         bgImage: "/img/corona/wheelchair.jpg"
                     }
                 ]
@@ -121,6 +121,25 @@
                 left: auto;
             }
         }
+    }
+    .text-color-home {
+        color: #DAA520;
+        font-weight: 4000;
+    }
+
+    .trans-pink {
+    background-color: rgba(218, 165, 32, 0.6);
+    border-radius: 15px;
+    padding: 5px 25px!important;
+}
+
+.text-dmd {
+        color: #463d9c;
+    }
+
+    .bk-btn-theme-dmd {
+        background: #463d9c;
+        color: #fff;
     }
     
 </style>

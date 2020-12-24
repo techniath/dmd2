@@ -20,7 +20,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="call-btn text-center text-md-right mt_mobile--20 wow move-up">
-                            <n-link to="/contact-us-modern" class="brook-btn bk-btn-theme text-theme btn-sd-size">Contact us now</n-link>
+                            <n-link to="/contact-us-modern" class="brook-btn bk-btn-theme-dmd text-dmd btn-sd-size">Contact us now</n-link>
                         </div>
                     </div>
                 </div>
@@ -367,5 +367,8 @@
     }
     .text-color {
         color : #463d9c
+    }
+    .bk-btn-theme-dmd {
+        background: #463d9c;
     }
 </style>

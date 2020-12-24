@@ -13,9 +13,9 @@
                 <div class="col-xl-6">
                     <div class="row mtn--40 text-dmd ">
                         <div>
-                            <h4 class="text-dmd">DMD</h4> is a local specialized Transportation company serving the twin cities metropolitan area and south central Minnesota. We offer a complete line of wheelchair accessible vans with rear entry ramps, Para-lift equipped, and regular sedan vehicles to transport our clients. We are a reputable organization that is licensed by the Minnesota Department of Transportation; we are bonded, insured and we also provide Transportation and Companion services for seniors and those with disabilities in the greater Twin Cities Metro area and south central Minnesota.
+                            <!-- <h4 class="text-dmd">DMD</h4> is a local specialized Transportation company serving the twin cities metropolitan area and south central Minnesota. We offer a complete line of wheelchair accessible vans with rear entry ramps, Para-lift equipped, and regular sedan vehicles to transport our clients. We are a reputable organization that is licensed by the Minnesota Department of Transportation; we are bonded, insured and we also provide Transportation and Companion services for seniors and those with disabilities in the greater Twin Cities Metro area and south central Minnesota.
                             <br><br>
-                            We are one team with one mission; to provide safe, consistent, cost effective solutions for all of your transportation needs. With over 30 years of our team’s combined experience, in community health care we have developed a network of creative resources that allow us to successfully handle your most urgent transportation needs.
+                            We are one team with one mission; to provide safe, consistent, cost effective solutions for all of your transportation needs. With over 30 years of our team’s combined experience, in community health care we have developed a network of creative resources that allow us to successfully handle your most urgent transportation needs. -->
                         </div>
                     </div>
                 </div>
