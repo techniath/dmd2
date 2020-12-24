@@ -1,0 +1,555 @@
+[
+  {
+    "name": "about-us-01",
+    "path": "/about-us-01",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\about-us-01.vue",
+    "chunkName": "pages/about-us-01",
+    "_name": "_03ba4f46"
+  },
+  {
+    "name": "about-us-03",
+    "path": "/about-us-03",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\about-us-03.vue",
+    "chunkName": "pages/about-us-03",
+    "_name": "_03d67e48"
+  },
+  {
+    "name": "about-us-04",
+    "path": "/about-us-04",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\about-us-04.vue",
+    "chunkName": "pages/about-us-04",
+    "_name": "_03e495c9"
+  },
+  {
+    "name": "career",
+    "path": "/career",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\career.vue",
+    "chunkName": "pages/career",
+    "_name": "_3307b0f8"
+  },
+  {
+    "name": "contact-us-modern",
+    "path": "/contact-us-modern",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\contact-us-modern.vue",
+    "chunkName": "pages/contact-us-modern",
+    "_name": "_5e000a92"
+  },
+  {
+    "name": "contact-us-with-map",
+    "path": "/contact-us-with-map",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\contact-us-with-map.vue",
+    "chunkName": "pages/contact-us-with-map",
+    "_name": "_f83fc726"
+  },
+  {
+    "name": "home-authentic-studio",
+    "path": "/home-authentic-studio",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-authentic-studio.vue",
+    "chunkName": "pages/home-authentic-studio",
+    "_name": "_32ec44aa"
+  },
+  {
+    "name": "home-blog-grid",
+    "path": "/home-blog-grid",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-blog-grid.vue",
+    "chunkName": "pages/home-blog-grid",
+    "_name": "_f63467c6"
+  },
+  {
+    "name": "home-corona",
+    "path": "/home-corona",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-corona.vue",
+    "chunkName": "pages/home-corona",
+    "_name": "_033db8c0"
+  },
+  {
+    "name": "home-creative-agency",
+    "path": "/home-creative-agency",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-creative-agency.vue",
+    "chunkName": "pages/home-creative-agency",
+    "_name": "_49865d6f"
+  },
+  {
+    "name": "home-creative-portfolio",
+    "path": "/home-creative-portfolio",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-creative-portfolio.vue",
+    "chunkName": "pages/home-creative-portfolio",
+    "_name": "_12ec614e"
+  },
+  {
+    "name": "home-design-studio",
+    "path": "/home-design-studio",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-design-studio.vue",
+    "chunkName": "pages/home-design-studio",
+    "_name": "_58b14651"
+  },
+  {
+    "name": "home-digital-agency",
+    "path": "/home-digital-agency",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-digital-agency.vue",
+    "chunkName": "pages/home-digital-agency",
+    "_name": "_19c833fe"
+  },
+  {
+    "name": "home-essential",
+    "path": "/home-essential",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-essential.vue",
+    "chunkName": "pages/home-essential",
+    "_name": "_1868b34c"
+  },
+  {
+    "name": "home-freelancer",
+    "path": "/home-freelancer",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-freelancer.vue",
+    "chunkName": "pages/home-freelancer",
+    "_name": "_e6f89cb2"
+  },
+  {
+    "name": "home-fullscreen-slider-left-vertical-header",
+    "path": "/home-fullscreen-slider-left-vertical-header",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-fullscreen-slider-left-vertical-header.vue",
+    "chunkName": "pages/home-fullscreen-slider-left-vertical-header",
+    "_name": "_69523e08"
+  },
+  {
+    "name": "home-indie-musician",
+    "path": "/home-indie-musician",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-indie-musician.vue",
+    "chunkName": "pages/home-indie-musician",
+    "_name": "_dbdc7ef2"
+  },
+  {
+    "name": "home-landing",
+    "path": "/home-landing",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-landing.vue",
+    "chunkName": "pages/home-landing",
+    "_name": "_e519a4ba"
+  },
+  {
+    "name": "home-masonry-gallery",
+    "path": "/home-masonry-gallery",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-masonry-gallery.vue",
+    "chunkName": "pages/home-masonry-gallery",
+    "_name": "_a8331c54"
+  },
+  {
+    "name": "home-minimal-agency",
+    "path": "/home-minimal-agency",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-minimal-agency.vue",
+    "chunkName": "pages/home-minimal-agency",
+    "_name": "_00d5b4d5"
+  },
+  {
+    "name": "home-minimal-metro-grid",
+    "path": "/home-minimal-metro-grid",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-minimal-metro-grid.vue",
+    "chunkName": "pages/home-minimal-metro-grid",
+    "_name": "_a9adfc6c"
+  },
+  {
+    "name": "home-minimal-portfolio",
+    "path": "/home-minimal-portfolio",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-minimal-portfolio.vue",
+    "chunkName": "pages/home-minimal-portfolio",
+    "_name": "_0cf80828"
+  },
+  {
+    "name": "home-onepage",
+    "path": "/home-onepage",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-onepage.vue",
+    "chunkName": "pages/home-onepage",
+    "_name": "_ae7b7afe"
+  },
+  {
+    "name": "home-photo-slider-gallery",
+    "path": "/home-photo-slider-gallery",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-photo-slider-gallery.vue",
+    "chunkName": "pages/home-photo-slider-gallery",
+    "_name": "_590b8cf6"
+  },
+  {
+    "name": "home-portfolio-slide",
+    "path": "/home-portfolio-slide",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-portfolio-slide.vue",
+    "chunkName": "pages/home-portfolio-slide",
+    "_name": "_0d69e410"
+  },
+  {
+    "name": "home-product-landing",
+    "path": "/home-product-landing",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-product-landing.vue",
+    "chunkName": "pages/home-product-landing",
+    "_name": "_5cda69c5"
+  },
+  {
+    "name": "home-restaurant",
+    "path": "/home-restaurant",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-restaurant.vue",
+    "chunkName": "pages/home-restaurant",
+    "_name": "_f27fa33e"
+  },
+  {
+    "name": "home-service",
+    "path": "/home-service",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-service.vue",
+    "chunkName": "pages/home-service",
+    "_name": "_0641897e"
+  },
+  {
+    "name": "home-start-up",
+    "path": "/home-start-up",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-start-up.vue",
+    "chunkName": "pages/home-start-up",
+    "_name": "_3b67b98a"
+  },
+  {
+    "name": "home-vertical-menu",
+    "path": "/home-vertical-menu",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\home-vertical-menu.vue",
+    "chunkName": "pages/home-vertical-menu",
+    "_name": "_57e41e62"
+  },
+  {
+    "name": "pricing-plans",
+    "path": "/pricing-plans",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\pricing-plans.vue",
+    "chunkName": "pages/pricing-plans",
+    "_name": "_17626299"
+  },
+  {
+    "name": "services-classic",
+    "path": "/services-classic",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\services-classic.vue",
+    "chunkName": "pages/services-classic",
+    "_name": "_30756ac6"
+  },
+  {
+    "name": "services-list",
+    "path": "/services-list",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\services-list.vue",
+    "chunkName": "pages/services-list",
+    "_name": "_9ea60eba"
+  },
+  {
+    "name": "services-modern",
+    "path": "/services-modern",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\services-modern.vue",
+    "chunkName": "pages/services-modern",
+    "_name": "_2a01b938"
+  },
+  {
+    "name": "team-carousel-01",
+    "path": "/team-carousel-01",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\team-carousel-01.vue",
+    "chunkName": "pages/team-carousel-01",
+    "_name": "_5867e918"
+  },
+  {
+    "name": "team-carousel-02",
+    "path": "/team-carousel-02",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\team-carousel-02.vue",
+    "chunkName": "pages/team-carousel-02",
+    "_name": "_58760099"
+  },
+  {
+    "name": "team-grid",
+    "path": "/team-grid",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\team-grid.vue",
+    "chunkName": "pages/team-grid",
+    "_name": "_30ed7b2c"
+  },
+  {
+    "name": "blog-blog-creative",
+    "path": "/blog/blog-creative",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-creative.vue",
+    "chunkName": "pages/blog/blog-creative",
+    "_name": "_13a9560e"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-details.vue",
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_52d5e89a"
+  },
+  {
+    "name": "blog-blog-details-modern-layout",
+    "path": "/blog/blog-details-modern-layout",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-details-modern-layout.vue",
+    "chunkName": "pages/blog/blog-details-modern-layout",
+    "_name": "_13adbd7e"
+  },
+  {
+    "name": "blog-blog-grid-classic",
+    "path": "/blog/blog-grid-classic",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-grid-classic.vue",
+    "chunkName": "pages/blog/blog-grid-classic",
+    "_name": "_7e08ddea"
+  },
+  {
+    "name": "blog-blog-grid-classic-sidebar",
+    "path": "/blog/blog-grid-classic-sidebar",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-grid-classic-sidebar.vue",
+    "chunkName": "pages/blog/blog-grid-classic-sidebar",
+    "_name": "_ab9f0a0e"
+  },
+  {
+    "name": "blog-blog-grid-mesonry",
+    "path": "/blog/blog-grid-mesonry",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-grid-mesonry.vue",
+    "chunkName": "pages/blog/blog-grid-mesonry",
+    "_name": "_76535699"
+  },
+  {
+    "name": "blog-blog-grid-minimal",
+    "path": "/blog/blog-grid-minimal",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-grid-minimal.vue",
+    "chunkName": "pages/blog/blog-grid-minimal",
+    "_name": "_bf87d90e"
+  },
+  {
+    "name": "blog-blog-grid-minimal-outline",
+    "path": "/blog/blog-grid-minimal-outline",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-grid-minimal-outline.vue",
+    "chunkName": "pages/blog/blog-grid-minimal-outline",
+    "_name": "_acac6924"
+  },
+  {
+    "name": "blog-blog-grid-modern",
+    "path": "/blog/blog-grid-modern",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-grid-modern.vue",
+    "chunkName": "pages/blog/blog-grid-modern",
+    "_name": "_b4f51b12"
+  },
+  {
+    "name": "blog-blog-grid-simple",
+    "path": "/blog/blog-grid-simple",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-grid-simple.vue",
+    "chunkName": "pages/blog/blog-grid-simple",
+    "_name": "_709290ec"
+  },
+  {
+    "name": "blog-blog-grid-standard",
+    "path": "/blog/blog-grid-standard",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-grid-standard.vue",
+    "chunkName": "pages/blog/blog-grid-standard",
+    "_name": "_41ebd1d6"
+  },
+  {
+    "name": "blog-blog-standard-list",
+    "path": "/blog/blog-standard-list",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\blog-standard-list.vue",
+    "chunkName": "pages/blog/blog-standard-list",
+    "_name": "_181fde5f"
+  },
+  {
+    "name": "element-accordion",
+    "path": "/element/accordion",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\accordion.vue",
+    "chunkName": "pages/element/accordion",
+    "_name": "_524ce4c6"
+  },
+  {
+    "name": "element-brand-logo",
+    "path": "/element/brand-logo",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\brand-logo.vue",
+    "chunkName": "pages/element/brand-logo",
+    "_name": "_26ffb623"
+  },
+  {
+    "name": "element-call-to-action-banner",
+    "path": "/element/call-to-action-banner",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\call-to-action-banner.vue",
+    "chunkName": "pages/element/call-to-action-banner",
+    "_name": "_c868a644"
+  },
+  {
+    "name": "element-carousel-slider",
+    "path": "/element/carousel-slider",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\carousel-slider.vue",
+    "chunkName": "pages/element/carousel-slider",
+    "_name": "_f9ee6428"
+  },
+  {
+    "name": "element-contact-subscribe",
+    "path": "/element/contact-subscribe",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\contact-subscribe.vue",
+    "chunkName": "pages/element/contact-subscribe",
+    "_name": "_b4407a4a"
+  },
+  {
+    "name": "element-dividers",
+    "path": "/element/dividers",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\dividers.vue",
+    "chunkName": "pages/element/dividers",
+    "_name": "_489c306c"
+  },
+  {
+    "name": "element-flexible-image-slider",
+    "path": "/element/flexible-image-slider",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\flexible-image-slider.vue",
+    "chunkName": "pages/element/flexible-image-slider",
+    "_name": "_a467ef5a"
+  },
+  {
+    "name": "element-gradation",
+    "path": "/element/gradation",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\gradation.vue",
+    "chunkName": "pages/element/gradation",
+    "_name": "_595de965"
+  },
+  {
+    "name": "element-icon-boxes",
+    "path": "/element/icon-boxes",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\icon-boxes.vue",
+    "chunkName": "pages/element/icon-boxes",
+    "_name": "_0d07d957"
+  },
+  {
+    "name": "element-instagram",
+    "path": "/element/instagram",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\instagram.vue",
+    "chunkName": "pages/element/instagram",
+    "_name": "_51ffe230"
+  },
+  {
+    "name": "element-lists",
+    "path": "/element/lists",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\lists.vue",
+    "chunkName": "pages/element/lists",
+    "_name": "_36a810da"
+  },
+  {
+    "name": "element-message-box",
+    "path": "/element/message-box",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\message-box.vue",
+    "chunkName": "pages/element/message-box",
+    "_name": "_6f6822fa"
+  },
+  {
+    "name": "element-pricing-box",
+    "path": "/element/pricing-box",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\pricing-box.vue",
+    "chunkName": "pages/element/pricing-box",
+    "_name": "_00cd417c"
+  },
+  {
+    "name": "element-tab",
+    "path": "/element/tab",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\tab.vue",
+    "chunkName": "pages/element/tab",
+    "_name": "_83f7d5da"
+  },
+  {
+    "name": "element-team",
+    "path": "/element/team",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\team.vue",
+    "chunkName": "pages/element/team",
+    "_name": "_508c9462"
+  },
+  {
+    "name": "element-testimonial",
+    "path": "/element/testimonial",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\element\\\\testimonial.vue",
+    "chunkName": "pages/element/testimonial",
+    "_name": "_2a731f1d"
+  },
+  {
+    "name": "portfolio-portfolio-ajax-filter",
+    "path": "/portfolio/portfolio-ajax-filter",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-ajax-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-ajax-filter",
+    "_name": "_59acdef2"
+  },
+  {
+    "name": "portfolio-portfolio-details",
+    "path": "/portfolio/portfolio-details",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-details.vue",
+    "chunkName": "pages/portfolio/portfolio-details",
+    "_name": "_5c8b8522"
+  },
+  {
+    "name": "portfolio-portfolio-details-image-with-caption",
+    "path": "/portfolio/portfolio-details-image-with-caption",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-details-image-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-details-image-with-caption",
+    "_name": "_7feec15f"
+  },
+  {
+    "name": "portfolio-portfolio-details-left-wide",
+    "path": "/portfolio/portfolio-details-left-wide",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-details-left-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-left-wide",
+    "_name": "_5905540a"
+  },
+  {
+    "name": "portfolio-portfolio-details-right",
+    "path": "/portfolio/portfolio-details-right",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-details-right.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right",
+    "_name": "_2ffe9284"
+  },
+  {
+    "name": "portfolio-portfolio-details-right-wide",
+    "path": "/portfolio/portfolio-details-right-wide",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-details-right-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right-wide",
+    "_name": "_4afce6b2"
+  },
+  {
+    "name": "portfolio-portfolio-grid-boxed",
+    "path": "/portfolio/portfolio-grid-boxed",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-grid-boxed.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-boxed",
+    "_name": "_35479c74"
+  },
+  {
+    "name": "portfolio-portfolio-grid-filter",
+    "path": "/portfolio/portfolio-grid-filter",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-grid-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-filter",
+    "_name": "_5df6f20c"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-01",
+    "path": "/portfolio/portfolio-grid-metro-01",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-grid-metro-01.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-01",
+    "_name": "_376d9f6e"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-03",
+    "path": "/portfolio/portfolio-grid-metro-03",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-grid-metro-03.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-03",
+    "_name": "_3735416a"
+  },
+  {
+    "name": "portfolio-portfolio-grid-wide",
+    "path": "/portfolio/portfolio-grid-wide",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-grid-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-wide",
+    "_name": "_191b0232"
+  },
+  {
+    "name": "portfolio-portfolio-with-caption",
+    "path": "/portfolio/portfolio-with-caption",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\portfolio\\\\portfolio-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-with-caption",
+    "_name": "_fc4c42fc"
+  },
+  {
+    "name": "blog-id",
+    "path": "/blog/:id?",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\blog\\\\_id.vue",
+    "chunkName": "pages/blog/_id",
+    "_name": "_3dae8d64"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\DMD\\\\dmd-master\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6226f848"
+  }
+]
